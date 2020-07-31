@@ -1,6 +1,6 @@
 # Hello, I'm Simon
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/simonhlee97/git-badges)](https://badges.pufler.dev)
 
 ### I've been called a "VueJS and Bulma Proselytizer"
 
