@@ -13,7 +13,7 @@
 - ⚡ Fun fact: Born in Korea, and grew up in Indiana
 
 
-[![Simon's github stats](https://github-readme-stats.vercel.app/api?username=simonhlee97)](https://github.com/anuraghazra/github-readme-stats)
+[![Simon's github stats](https://github-readme-stats.vercel.app/api?username=simonhlee97&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
