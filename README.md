@@ -1,7 +1,7 @@
 # Hello, I'm Simon
 
-https://badges.pufler.dev/visits/simonhlee97/simonhlee97
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.i)
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+
 ### I've been called a "VueJS and Bulma Proselytizer"
 
 - 🔭 I’m currently building my own web-app, using MEVN stack (MongoDB, Express, Vue, NodeJS)
