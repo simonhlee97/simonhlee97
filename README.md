@@ -9,12 +9,12 @@
 - 🌱 I’m currently learning MongoDB, DenoJS, GraphQL, Static Site Generators
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with finding remote work (contract or full-time)
-- 💬 Ask me about HTML, CSS, JavaScript, MongoDB, WordPress themes, JAMstack, Korean food
+- 💬 Ask me about HTML, CSS, JavaScript, MongoDB, WordPress themes, Korean food
 - 📫 How to reach me: simonhlee4945@gmail.com or my [homepage](https://simonhlee97.github.io)
 - ⚡ Fun fact: Born in Korea, and grew up in Indiana
 
 
-[![Simon's github stats](https://github-readme-stats.vercel.app/api?username=simonhlee97&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Simon's github stats](https://github-readme-stats.vercel.app/api?username=simonhlee97&theme=nightowl)](https://github.com/simonhlee97)
 
 
 
