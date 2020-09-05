@@ -1,12 +1,14 @@
 # Hello, I'm Simon
 
+### [LinkedIn](https://www.linkedin.com/in/simon-h-lee/)
+
 [![Visits Badge](https://badges.pufler.dev/visits/simonhlee97/git-badges)](https://badges.pufler.dev)
 <a href="https://www.linkedin.com/in/simon-h-lee/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ### I've been called a "VueJS and Bulma Proselytizer"
 
 - 🔭 I’m currently building my own web-app, using MEVN stack (MongoDB, Express, Vue, NodeJS)
-- 🌱 I’m currently learning MongoDB, DenoJS, GraphQL, Static Site Generators
+- 🌱 I’m currently learning Linux Ubuntu Server
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with finding remote work (contract or full-time)
 - 💬 Ask me about HTML, CSS, JavaScript, MongoDB, WordPress themes, Korean food
