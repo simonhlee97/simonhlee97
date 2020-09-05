@@ -2,6 +2,8 @@
 
 ### [LinkedIn](https://www.linkedin.com/in/simon-h-lee/)
 
+#### I own the blog [RyuCave.com](https://ryucave.com/)
+
 [![Visits Badge](https://badges.pufler.dev/visits/simonhlee97/git-badges)](https://badges.pufler.dev)
 <a href="https://www.linkedin.com/in/simon-h-lee/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
