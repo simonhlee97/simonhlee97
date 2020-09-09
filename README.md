@@ -21,4 +21,15 @@
 [![Simon's github stats](https://github-readme-stats.vercel.app/api?username=simonhlee97&theme=nightowl)](https://github.com/simonhlee97)
 
 
+Thanks for visiting.
+
+
+                                                                               
+    //   ) )                                        / /                        
+   ((        ( )  _   __      ___       __         / /         ___      ___    
+     \\     / / // ) )  ) ) //   ) ) //   ) )     / /        //___) ) //___) ) 
+       ) ) / / // / /  / / //   / / //   / /     / /        //       //        
+((___ / / / / // / /  / / ((___/ / //   / /     / /____/ / ((____   ((____     
+
+
 
