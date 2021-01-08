@@ -6,7 +6,7 @@
 
 - 💬 Ask me about JavaScript, HTML, CSS, MongoDB, WordPress themes, Korean food
 
-- 🌱 I’m currently learning Python, Django, and databases
+- 🌱 I’m currently learning Python, Django, Typescript, Docker, and SQL
 
 ## I am a big fan of VueJS, React, and Bulma. I enjoy contributing to open source projects.
 
