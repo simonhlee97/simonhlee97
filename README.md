@@ -1,4 +1,10 @@
 # Hello, I'm Simon
+---
+<a href="https://www.linkedin.com/in/simon-h-lee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+---
+### Latest Projects
++ My blog, simonpost.com, is a Django project I.
++ seoulstack.com - another Django project I built for Seoul's Expat community. (Also a Hacker News clone.)
 
 ## [LinkedIn](https://www.linkedin.com/in/simon-h-lee/)
 
