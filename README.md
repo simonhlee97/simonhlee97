@@ -3,10 +3,10 @@
 <a href="https://www.linkedin.com/in/simon-h-lee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ---
 ### Latest Projects
-+ My blog, simonpost.com, is a Django project I.
-+ seoulstack.com - another Django project I built for Seoul's Expat community. (Also a Hacker News clone.)
-
-## [LinkedIn](https://www.linkedin.com/in/simon-h-lee/)
++ simonpost.com - I rebuilt my blog, this time, using Django.
++ seoulstack.com - another Django project. I built a HackerNews clone for Seoul's Expat community.
++ SimpleSimonCSS - my own Bootstrap alternative.
+---
 
 - 📫 How to reach me: simonhlee4945@gmail.com or my [homepage](https://simonhlee97.github.io)
 
