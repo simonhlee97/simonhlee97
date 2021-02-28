@@ -5,7 +5,7 @@
 ---
 
 ### Latest Projects
-+ [SimonPost](https://simonpost.com): I rebuilt my blog, this time, using Django. Deployed to a Gunicorn web server, hosted on Digital Ocean Ubuntu 20.04
++ [SimonPost](https://simonpost.com): I rebuilt my blog, this time, using Django, on a Gunicorn web server behind an Nginx proxy. All running on Ubuntu 20.04 on Digital Ocean
 
 + [SeoulStack](https://seoulstack.com): another Django project. I built a HackerNews clone for Seoul's Expat community, also hosted on Digital Ocean.
 
@@ -13,7 +13,7 @@
 
 ---
 
-- 📫 How to reach me: simonhlee97@hotmail.com or my [homepage](https://simonhlee97.github.io)
+- 📫 How to reach me: simonhlee4945@gmail.com or my [homepage](https://simonhlee97.github.io)
 
 - 💬 Ask me about JavaScript, HTML, CSS, MongoDB, WordPress themes, Korean food
 
