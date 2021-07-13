@@ -7,8 +7,6 @@
 ### Latest Projects
 + [SimonPost](https://simonpost.com): I rebuilt my blog, again. Went back to a static site generator, Eleventy! Back to Netlify! I love Netlify.
 
-+ [SeoulStack](https://seoulstack.com): another Django project. I built a HackerNews clone for Seoul's Expat community, also hosted on Digital Ocean.
-
 + [SimpleSimonCSS](https://www.npmjs.com/package/simplesimoncss): My first NPM package! A simple Bootstrap alternative.
 
 ---
