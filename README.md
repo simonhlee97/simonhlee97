@@ -1,8 +1,9 @@
 # Hello, I'm Simon
 ---
 <a href="https://www.linkedin.com/in/simon-h-lee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 ---
+
+This is my personal GitHub. My [work GitHub is here](https://github.com/simonhlee).
 
 ### Latest Projects
 + [SimonPost](https://simonpost.com): I rebuilt my blog, again. Went back to a static site generator, Eleventy! Back to Netlify! I love Netlify.
@@ -13,13 +14,13 @@
 
 - 📫 How to reach me: simonhlee4945@gmail.com or my [homepage](https://simonhlee97.github.io)
 
-- 💬 Ask me about JavaScript, HTML, CSS, MongoDB, WordPress themes, Korean food
+- 💬 Ask me about JavaScript, React, VueJS, HTML, CSS, MongoDB, WordPress themes, Korean food
 
-- 🌱 I’m currently learning Python, Django and Flask, Typescript, PostgreSQL
+- 🌱 I’m currently learning Java Spring, Typescript
 
 ---
 
-### I am a big fan of VueJS, React, and Bulma. I enjoy contributing to open source projects.
+### I absolutely love VueJS. I also really like React and Bulma.
 
 - ⚡ Fun fact: Born in rice-fields (Korea), grew up in corn-fields (Indiana)
 - Favorite movies: *Back to the Future*, *2001: Space Odyssey*, *Rocky*
