@@ -14,16 +14,16 @@
 
 - 💬 Ask me about JavaScript, React, VueJS, HTML, CSS, MongoDB, WordPress themes, Korean food
 
-- 🌱 I’m currently learning Java Spring, Typescript
+- 🌱 I’m currently learning TypeScript
 
 ---
 
 ### I absolutely love VueJS. I also really like React and Bulma.
 
 - ⚡ Fun fact: Born in rice-fields (Korea), grew up in corn-fields (Indiana)
-- Favorite movies: *Back to the Future*, *2001: Space Odyssey*, *Rocky*
-- Favorite bands: *Pink Floyd*, *Led Zeppelin*, *Simon and Garfunkel*, *Dave Matthews*, *Stone Temple Pilots*
-- Favorite books: *1984*, *Animal Farm*, *Freakonomics*, *Omnivore's Dilemma*, *Liar's Poker*, *The Big Short*
+- 🍿 Favorite movies: *Back to the Future*, *2001: Space Odyssey*, *Rocky*
+- 🎧 Favorite bands: *Pink Floyd*, *Led Zeppelin*, *Simon and Garfunkel*, *Dave Matthews*, *Stone Temple Pilots*
+- 📚 Favorite books: *1984*, *Animal Farm*, *Freakonomics*, *Omnivore's Dilemma*, *Liar's Poker*, *The Big Short*
 
 ---
 
