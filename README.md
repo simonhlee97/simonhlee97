@@ -1,10 +1,7 @@
----
 <a href="https://www.linkedin.com/in/simon-h-lee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ---
-
 # Hello, I'm Simon.
 ### I'm a software engineer, currently living in Seoul, Korea.
-
 
 ### Latest Projects
 + [SimonPost](https://simonpost.com): I rebuilt my blog, again. Went back to a static site generator, Eleventy! Back to Netlify! I love Netlify.
