@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/simon-h-lee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ---
 # Hello, I'm Simon.
-### I'm a software engineer, currently living in Seoul, Korea.
+### I'm a web developer, currently living in Seoul, Korea.
 
 ### Latest Projects
 + [SimonPost](https://simonpost.com): I rebuilt my blog, again. Went back to a static site generator, Eleventy! Back to Netlify! I love Netlify.
@@ -18,12 +18,12 @@
 
 ---
 
-### I absolutely love VueJS. I also really like React and Bulma.
+### I absolutely love VueJS. I also really like React and Bulma (but prefer building my own CSS/SCSS libraries)
 
 - ⚡ Fun fact: Born in rice-fields (Korea), grew up in corn-fields (Indiana)
 - 🍿 Favorite movies: *Back to the Future*, *2001: Space Odyssey*, *Rocky*
 - 🎧 Favorite bands: *Pink Floyd*, *Led Zeppelin*, *Simon and Garfunkel*, *Dave Matthews*, *Stone Temple Pilots*
-- 📚 Favorite books: *1984*, *Animal Farm*, *Freakonomics*, *Omnivore's Dilemma*, *Liar's Poker*, *The Big Short*
+- 📚 Favorite books: *1984*, *Slaughterhouse Five*, *Animal Farm*, *Freakonomics*, *Omnivore's Dilemma*, *Liar's Poker*, *The Big Short*
 
 ---
 
