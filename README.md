@@ -4,6 +4,9 @@
 ### I'm a web developer, currently living in Seoul, Korea.
 
 ### Latest Projects
+
++ [Netflix Clone](https://netflix-wannabe.vercel.app/about): Originally just a React project, I rebuilt it with Next.js, Supbase, and deployed to Vercel.
+
 + [SimonPost](https://simonpost.com): I rebuilt my blog, again. Went back to a static site generator, Eleventy! Back to Netlify! I love Netlify.
 
 + [SimpleSimonCSS](https://www.npmjs.com/package/simplesimoncss): My first NPM package! A simple Bootstrap alternative.
