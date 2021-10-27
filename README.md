@@ -21,7 +21,7 @@
 
 ---
 
-### I absolutely love VueJS. I also really like React and Bulma (but prefer building my own CSS/SCSS libraries)
+### I absolutely love VueJS. I also really like React. Recently, I've been really enjoying JamStack projects (with starter templates at Netlify, Vercel).
 
 - ⚡ Fun fact: Born in rice-fields (Korea), grew up in corn-fields (Indiana)
 - 🍿 Favorite movies: *Back to the Future*, *2001: Space Odyssey*, *Rocky*
