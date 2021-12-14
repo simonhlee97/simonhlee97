@@ -12,6 +12,9 @@
 + [SimpleSimonCSS](https://www.npmjs.com/package/simplesimoncss): My first NPM package! A simple Bootstrap alternative.
 
 ---
+### I'm currently learning:
+- machine learning: pandas, numpy, matplotlib, scikitlearn, Jupyter Notebooks!
+---
 
 - 📫 How to reach me: simonhlee4945@gmail.com or my [homepage](https://simonhlee97.github.io)
 
