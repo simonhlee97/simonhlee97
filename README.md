@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/simon-h-lee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ---
 # Hello, I'm Simon.
-### I'm a web developer, currently living in Seoul, Korea.
+### I'm a web developer, currently living in Incheon, Korea.
 
 ### Latest Projects
 
@@ -13,14 +13,13 @@
 
 ---
 ### I'm currently learning:
+- TypeScript
 - machine learning: pandas, numpy, matplotlib, scikitlearn, Jupyter Notebooks!
 ---
 
 - 📫 How to reach me: simonhlee4945@gmail.com or my [homepage](https://simonhlee97.github.io)
 
 - 💬 Ask me about JavaScript, React, VueJS, HTML, CSS, MongoDB, WordPress themes, Korean food
-
-- 🌱 I’m currently learning TypeScript
 
 ---
 
