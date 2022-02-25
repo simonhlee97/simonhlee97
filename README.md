@@ -1,6 +1,6 @@
 ### Hi, I'm Simon.
 
-I'm a web developer from Indianapolis, IN.
+I'm a web developer from Indianapolis, IN. I like to read, write, learn & talk about code.
 
 I enjoy building interactive experiences and component-driven UIs for the web.
 
