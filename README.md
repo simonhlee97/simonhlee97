@@ -15,6 +15,8 @@ I'm also experienced with many other libraries and tools.
 
 Thanks for visiting my GitHub home.
 
+<a href="https://app.daily.dev/indyfob2008"><img src="https://api.daily.dev/devcards/fe5658bc279b4dc0b40a6c5c7c81bad3.png?r=erj" width="400" alt="Simon Lee's Dev Card"/></a>
+
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simon-h-lee) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/simonhlee97) 
 
