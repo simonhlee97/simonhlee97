@@ -15,8 +15,6 @@ I'm also experienced with many other libraries and tools.
 
 Thanks for visiting my GitHub home.
 
-<a href="https://app.daily.dev/indyfob2008"><img src="https://api.daily.dev/devcards/fe5658bc279b4dc0b40a6c5c7c81bad3.png?r=erj" width="400" alt="Simon Lee's Dev Card"/></a>
-
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simon-h-lee) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/simonhlee97) 
 
@@ -26,12 +24,6 @@ Thanks for visiting my GitHub home.
 ![](https://github-readme-stats.vercel.app/api?username=simonhlee97&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=simonhlee97&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=simonhlee97&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=simonhlee97&icon=0&color=0)](https://visitcount.itsvg.in)
