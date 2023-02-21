@@ -1,10 +1,8 @@
-### Hi, I'm Simon.
+## Hi, I'm Simon.
 
-I'm a web developer from Indianapolis, IN. I like to read, write, learn & talk about code.
+Web developer from Indianapolis, IN. I like to read, write, learn & talk about code.
 
-I enjoy building interactive experiences and component-driven UIs for the web.
-
-I am proficient in JavaScript, React, Vue.js, Node.js, HTML5, CSS3, WordPress, and git. I also recently picked up Ruby on Rails, a framework I have really enjoyed learning. And I've played with many other libraries and tools.
+I am proficient in JavaScript, React (and Next.js), Vue.js, Node.js, HTML5, CSS3, WordPress, and git. I also recently picked up Ruby on Rails, a framework I have really enjoyed learning. And I've played with many other libraries and tools.
 
 - ⚡ Fun fact: Born in rice-fields (Korea), grew up in corn-fields (Indiana)
 - 🍿 Favorite movies: *Back to the Future*, *2001: Space Odyssey*, *Rocky*
